@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Shukla</h1>
 <h3 align="center">A passionate frontend developer.Everyday, I get to create awesome experiences and engage with the vibrant github developers community. Ai enthusiast, aim to be an Ai engineer.</h3>
-<p><img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="symbiote07" height="300" width="500" /></p>
+<p><img align="centre" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="symbiote07" height="400" width="550" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symbiote07&label=Profile%20views&color=0e75b6&style=flat" alt="symbiote07" /> </p>
 
