@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Social Media Agency](https://github.com/Symbiote07/SOCIAL-MEDIA-AGENCY-)
+- 🔭 I’m currently working on more innovative Projects.
 
 - 🌱 I’m currently learning **Reactjs,Typescript(TS development),Flutter Development and Android Development and backend language(php,sql,nodejs).**
 
-- 👯 I’m looking to collaborate on [Social Media Agency](https://github.com/Symbiote07/SOCIAL-MEDIA-AGENCY-)
-
+- 👯 I’m looking to collaborate on some interesting projects with some techy brains
+  
 - 👨‍💻 All of my projects are available at [https://github.com/Symbiote07](https://github.com/Symbiote07)
 
 - 📝 I regularly write articles on [https://write.geeksforgeeks.org/pick-article?taxonomy=4313&page=1](https://write.geeksforgeeks.org/pick-article?taxonomy=4313&page=1)
 
-- 💬 Ask me about **html,css,javascript,java and c**
+- 💬 Ask me about **html,css,javascript,java,python ,opensource projects and furthermore innovative projects.
 
 - 📫 How to reach me **https://www.linkedin.com/in/aryan-shukla-092516283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
