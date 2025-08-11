@@ -22,6 +22,11 @@
   </a>
 </p>
 
+<div align="center">
+  
+   ![snake gif](https://github.com/Symbiote07/Symbiote07/blob/output/github-snake-dark.svg)
+</div>
+
 ---
 
 ### 🚀 About Me  
@@ -111,3 +116,5 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=symbiote07&theme=tokyonight" alt="streak </p>
+
+
