@@ -59,8 +59,8 @@
 ---
 
 ## 🌟 Featured Projects
-- 🚀 **[AI-Based Fraud Detection](https://github.com/aryanshukla01/)** – Detects payment fraud in real-time.  
-- 🌾 **[AI Crop Damage Assessment](https://github.com/aryanshukla01/)** – Identifies crop losses from rain, hailstorms, etc.  
+- 🚀 **[YojanaMitra](https://github.com/Symbiote07/YojanaMitra)** –AI-powered government schemes discovery platform helping Indian citizens find and apply for relevant government scheme.  
+- 🌾 **[growthbuddy-ai](https://github.com/Symbiote07/growthbuddy-ai)** –AI-powered chatbot platform for customer engagement & lead generation.  
 - 🤖 **[JARVIS AI Assistant](https://github.com/aryanshukla01/)** – Your personal voice-enabled chatbot.
 - 
 ---
