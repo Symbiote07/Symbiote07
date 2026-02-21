@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Shukla</h1>
+<h1 align="center">Hi 👋, I'm Aryan Shukla Of CS'27</h1>
 <h3 align="center">🚀 Frontend Developer | AI Enthusiast | Roboteer (Robotics Athlete) | Open Source Contributor | Future AI Engineer</h3>
 <!-- Typing SVG -->
 <p align="center">
