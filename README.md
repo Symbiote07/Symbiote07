@@ -31,6 +31,16 @@
    ![snake gif](https://github.com/Symbiote07/Symbiote07/blob/output/github-snake-dark.svg)
 </div>
 
+
+<div align="center">
+  <h2>🕹️ Contribution Activity</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Symbiote07/Symbiote07/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Symbiote07/Symbiote07/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Symbiote07/Symbiote07/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
 ---
 
 ### 🚀 About Me  
