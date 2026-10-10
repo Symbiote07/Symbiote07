@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Shukla Of AI&ML'27</h1>
-<h3 align="center">🚀 Frontend Developer | AI Enthusiast | Roboteer (Robotics Athlete) | Open Source Contributor | Future AI Engineer</h3>
+<h3 align="center">🚀Machine learning & Neural Network Practitioner | Roboteer | Open Source Contributor </h3>
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Reality;Always+Learning+New+Tech;Building+Cool+Projects" />
@@ -45,10 +45,10 @@
 
 ### 🚀 About Me  
 - 🔭 *Working and collaborating with innovative technical minds* on impactful projects that sharpen my skills and boost my career in technology.  
-- 🌱 Continuously expanding expertise in *Full-Stack Development, AI/ML, Robotics, and Open Source contributions*.  
+- 🌱 Continuously expanding expertise in AI/ML, Robotics, and Open Source contributions*.  
 - 🤝 Open to *collaborations* on meaningful, real-world projects.  
 - 👨‍💻 My work lives here: [GitHub Portfolio](https://github.com/Symbiote07)  
-- 💬 Ask me about *Web Development, JavaScript, Java, Python, AI, and Robotics projects*.  
+- 💬 A Practitioner in Data-preprocessing, Machine learning, and Python, Exploring the fields of neural networks and training computer vision models. 
 - 📫 Connect with me: **[LinkedIn](https://www.linkedin.com/in/aryan-shukla-092516283/)**  
 - 🎯 Career Vision: To create *innovative AI and robotics solutions* that make a lasting impact.
 
